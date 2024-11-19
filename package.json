@@ -5,10 +5,10 @@
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^3.4.0",
+    "react-scripts": "^5.0.1",
     "express": "^4.17.1",
     "concurrently": "^5.0.2",
-    "http-proxy-middleware": "^1.0.0"
+    "http-proxy-middleware": "^3.0.3"
   },
   "scripts": {
     "start": "npm run development",
